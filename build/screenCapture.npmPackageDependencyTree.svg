@@ -1,0 +1,30 @@
+<svg height="430" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="430" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">3 megabytes installed</tspan>
+<tspan x="10" y="42"></tspan>
+<tspan x="10" y="58">node_modules</tspan>
+<tspan x="10" y="74">└─┬ vash@0.12.2 </tspan>
+<tspan x="10" y="90">  ├─┬ commander@1.1.1 </tspan>
+<tspan x="10" y="106">  │ └── keypress@0.1.0 </tspan>
+<tspan x="10" y="122">  ├─┬ debug@2.6.3 </tspan>
+<tspan x="10" y="138">  │ └── ms@0.7.2 </tspan>
+<tspan x="10" y="154">  └─┬ uglify-js@2.8.22 </tspan>
+<tspan x="10" y="170">    ├── source-map@0.5.6 </tspan>
+<tspan x="10" y="186">    ├── uglify-to-browserify@1.0.2 </tspan>
+<tspan x="10" y="202">    └─┬ yargs@3.10.0 </tspan>
+<tspan x="10" y="218">      ├── camelcase@1.2.1 </tspan>
+<tspan x="10" y="234">      ├─┬ cliui@2.1.0 </tspan>
+<tspan x="10" y="250">      │ ├─┬ center-align@0.1.3 </tspan>
+<tspan x="10" y="266">      │ │ ├─┬ align-text@0.1.4 </tspan>
+<tspan x="10" y="282">      │ │ │ ├─┬ kind-of@3.1.0 </tspan>
+<tspan x="10" y="298">      │ │ │ │ └── is-buffer@1.1.5 </tspan>
+<tspan x="10" y="314">      │ │ │ ├── longest@1.0.1 </tspan>
+<tspan x="10" y="330">      │ │ │ └── repeat-string@1.6.1 </tspan>
+<tspan x="10" y="346">      │ │ └── lazy-cache@1.0.4 </tspan>
+<tspan x="10" y="362">      │ ├── right-align@0.1.3 </tspan>
+<tspan x="10" y="378">      │ └── wordwrap@0.0.2 </tspan>
+<tspan x="10" y="394">      ├── decamelize@1.2.0 </tspan>
+<tspan x="10" y="410">      └── window-size@0.1.0</tspan>
+</text>
+</svg>

@@ -1,6 +1,6 @@
 # npmtest-vash
 
-#### test coverage for  [vash (v0.12.2)](https://github.com/kirbysayshi/vash)  [![npm package](https://img.shields.io/npm/v/npmtest-vash.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-vash) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-vash.svg)](https://travis-ci.org/npmtest/node-npmtest-vash)
+#### basic test coverage for  [vash (v0.12.2)](https://github.com/kirbysayshi/vash)  [![npm package](https://img.shields.io/npm/v/npmtest-vash.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-vash) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-vash.svg)](https://travis-ci.org/npmtest/node-npmtest-vash)
 
 #### Razor syntax for JS templating
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-vash/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-vash/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-vash/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-vash/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-vash/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-vash/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-vash/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-vash/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-vash/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-vash/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-vash/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-vash/build/coverage.html/index.html)
 
